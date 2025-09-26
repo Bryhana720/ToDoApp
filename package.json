@@ -1,0 +1,26 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Proyecto de gestor de tareas academicas",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Bryhana720/ToDoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryhana720/ToDoApp/issues"
+  },
+  "homepage": "https://github.com/Bryhana720/ToDoApp#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
